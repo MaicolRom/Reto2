@@ -49,7 +49,7 @@
       <Project>{2ab63e2a-e4ae-4a1c-8c9d-d287f54fd421}</Project>
       <Name>Capa_Datos</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Capa_Entidad\Capa_Logica.csproj">
+    <ProjectReference Include="..\Capa_Logica\Capa_Logica.csproj">
       <Project>{7ddc0cc7-fd21-433b-b748-77b850374359}</Project>
       <Name>Capa_Logica</Name>
     </ProjectReference>

@@ -83,11 +83,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Capa_Entidad\Capa_Logica.csproj">
+    <ProjectReference Include="..\Capa_Logica\Capa_Logica.csproj">
       <Project>{7ddc0cc7-fd21-433b-b748-77b850374359}</Project>
       <Name>Capa_Logica</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Capa_Negocio\Capa_Presentacion.csproj">
+    <ProjectReference Include="..\Capa_Presentacion\Capa_Presentacion.csproj">
       <Project>{6b9db001-43f0-4336-8a20-f8668f971917}</Project>
       <Name>Capa_Presentacion</Name>
     </ProjectReference>
